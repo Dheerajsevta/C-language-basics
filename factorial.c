@@ -12,6 +12,7 @@ void main(){
     
         
     }
+    //printing factorial of number 
     printf("final factorial is = %d\n" , fact);
     
 }
